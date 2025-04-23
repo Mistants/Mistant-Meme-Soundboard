@@ -1,4 +1,4 @@
-# ![Mistants Sound Buttons & Meme Soundboard](https://mistants.com)
+# [Mistants Sound Buttons & Meme Soundboard](https://mistants.com)
 
 ![Mistants Sound Buttons & Meme Soundboard](https://mistants.com/resource/public/images/og-image.png)
 
