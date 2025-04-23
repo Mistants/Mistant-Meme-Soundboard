@@ -1,6 +1,6 @@
-# Mistants Sound Buttons & Meme Soundboard
+# ![Mistants Sound Buttons & Meme Soundboard](https://mistants.com)
 
-![Mistants Sound Buttons & Meme Soundboard](https://via.placeholder.com/800x400?text=Mistants+Sound+Board)
+![Mistants Sound Buttons & Meme Soundboard](https://mistants.com/resource/public/images/og-image.png)
 
 ## The Ultimate Sound Board & Sound Effects Platform
 
